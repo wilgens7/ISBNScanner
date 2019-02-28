@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "21710008020",
+    "firebase_url": "https://isbn-scanner-b1894.firebaseio.com",
+    "project_id": "isbn-scanner-b1894",
+    "storage_bucket": "isbn-scanner-b1894.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21710008020:android:810a21a4a3a15f1e",
+        "android_client_info": {
+          "package_name": "com.seprojects.wilgens7.isbnscanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21710008020-ra3qiumb5rmbt02h6qmemmb7omm9fvgn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.seprojects.wilgens7.isbnscanner",
+            "certificate_hash": "07ab67bd597d258dfc82eb4f32197adbab9cf21d"
+          }
+        },
+        {
+          "client_id": "21710008020-lqjpnmphl6vt54g9fneg5db4mc14as3l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsznIKyuFV5pGGb6OZsFY935ymBN8BK9o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21710008020-lqjpnmphl6vt54g9fneg5db4mc14as3l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
